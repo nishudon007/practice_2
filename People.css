@@ -1,0 +1,26 @@
+.form{
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+   
+}
+.People{
+
+    
+
+    background:url(https://pbs.twimg.com/media/DrLOrqCXQAI5S6F.jpg);
+ 
+ height: 100vh;
+ width:100%;
+
+ /* Center and scale the image nicely */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+ 
+}
+  :not(p){
+     color:red;
+     justify-content: center;
+}
